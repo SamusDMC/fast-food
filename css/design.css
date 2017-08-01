@@ -1,0 +1,68 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+.quitar-float {
+    float: none;
+}
+
+.espacio-arriba {
+    margin-top: 100px;
+}
+
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.grande {
+    font-size: 4em;
+}
+
+.verde {
+    color: #44CC00;
+}
+
+a, .azul {
+    color: #009FFF;
+}
+
+.espacio-derecha {
+    margin-right: 1em;
+}
+
+.list-style-none li {
+    list-style-type: none;
+}
+
+.list-style-none {
+    margin: 0;
+    padding: 0;
+}
+
+.color-gris {
+    background-color: #eeeeee;
+}
+
+.padding-large {
+    padding: 5px 10px;
+}
+
+.inline-block {
+    float: none;
+    display: inline-block;
+}
+
+.aling-top {
+    vertical-align: top;
+}
+
+.mediano {
+    font-size: 16px;
+}
+
+.retraso-1 {
+    animation-delay: 1s;
+}
